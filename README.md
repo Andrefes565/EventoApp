@@ -4,6 +4,6 @@
 
 ### Projeto feito para aprimorar e por em prática meus conhecimentos nessas tecnologias
 
-![tela-cadastro]()
+![tela-cadastro](https://github.com/Andrefes565/EventoApp/blob/master/tela-cadastro.png)
 
-![lista-cadastrados]()
+![lista-cadastrados](https://github.com/Andrefes565/EventoApp/blob/master/lista-cadastrados.png)
