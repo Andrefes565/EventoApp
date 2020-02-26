@@ -6,4 +6,6 @@
 
 ![tela-cadastro](https://github.com/Andrefes565/EventoApp/blob/master/tela-cadastro.png)
 
+# ------------------------------------------------------------------------------------
+
 ![lista-cadastrados](https://github.com/Andrefes565/EventoApp/blob/master/lista-cadastrados.png)
